@@ -1,7 +1,7 @@
 NEED stdlib
 Run Main
 
-3d Cube Animation
+3d Cube Animation using wireframe 3d modeling 
 
 Wireframe modeling is one of several techniques for representing and rendering 3D objects onto a 2D computer screen. 
 Wireframe models only display the points and edges of an object rather than filling in surfaces, so they are relatively 
